@@ -1,0 +1,74 @@
+#anadiv {
+    width: 100%;
+    background-color:white;
+    height: auto;
+    width: auto;
+    display: flex;
+
+
+}
+
+#açiklama {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(2, 34, 62);
+    margin: auto;
+}
+
+#image img {
+
+    border-radius: 30px;
+    display: flex;
+    margin-top: 40px;
+    height: 100vh;
+
+}
+
+#adsoyad {
+    font-family: 'Dancing Script', cursive;
+    font-size: 75px;
+
+}
+
+#sosyalmedyaetiketleri {
+    font-size: 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#programBilgisi>div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#programBilgisi>div>img {
+    width: 50px;
+    height: 50px;
+}
+
+.siyahYuvarlak {
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.beyazYuvarlak {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+#hobi {
+
+    display: flex;
+    justify-content: space-between;
+
+}
