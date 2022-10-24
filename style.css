@@ -1,9 +1,11 @@
 #anadiv {
     width: 100%;
-    background-color:white;
+    background-color: white;
     height: auto;
     width: auto;
     display: flex;
+    flex-direction: column;
+    align-items: center;
 
 
 }
@@ -22,7 +24,8 @@
     border-radius: 30px;
     display: flex;
     margin-top: 40px;
-    height: 100vh;
+    height: 300px;
+    border-radius: 50%;
 
 }
 
@@ -34,10 +37,18 @@
 
 #sosyalmedyaetiketleri {
     font-size: 50px;
+
     display: flex;
     justify-content: space-between;
 
 }
+#sosyalmedyaetiketleri > a > i{
+    color:rgb(30, 28, 28);
+    
+    
+    
+}
+
 
 #programBilgisi>div {
     display: flex;
