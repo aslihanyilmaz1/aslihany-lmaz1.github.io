@@ -1,0 +1,37 @@
+
+body{
+    padding-top:50px;
+}
+.hakkimizda {
+    background-color:rgb(247, 242, 229);
+
+}
+.ayrac {
+    border: none;
+    border: 3px solid grey;
+    max-width: 250px;
+    margin:25px auto;
+
+}
+.beyaz {
+    background-color: rgb(247, 242, 229);
+    position: relative;
+    top:-55px;
+    font-size:40px;
+    border: 10px solid rgb(247, 242, 229);
+}
+.atölye {
+    background-color: white;
+    position: relative;
+    top:-55px;
+    font-size:40px;
+    border: 10px solid white;
+}
+.iletisim {
+    background-color: rgb(244, 232, 209);
+    position: relative;
+    top:-55px;
+    font-size:40px;
+    border: 10px solid   rgb(244, 232, 209);
+
+}
